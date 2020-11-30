@@ -1,2 +1,2 @@
 # Firebase-Auth
-Creating a simple React authentication using firebase 
+Creating a  React authentication using firebase 
