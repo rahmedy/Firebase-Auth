@@ -3,7 +3,7 @@
     
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Description
-React authentication using firebase, Firebase becomeing a very popular NoSQL
+Creating a React authentication using firebase, Firebase being a Popular NoSQL I wanted to give it a go and create a signup/log in portal where the user can update their account as well.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
